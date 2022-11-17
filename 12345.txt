@@ -1,0 +1,10 @@
+1) abstract methods are methods without body
+2) all abstract method must be overridden in child class
+3) abstract methods are always made in abstract classes
+4) abstract classes can have variable , non abstract and abstract method
+5) abstract classes are always base class
+6) abstract class  cannot be final class.
+7) we cannot instantiate abstract class but we can make reference of abstract class
+8) abstract class can have constructor
+
+has context menu

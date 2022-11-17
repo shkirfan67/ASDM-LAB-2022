@@ -4,6 +4,9 @@ class program
       {
 
              System.out.println("Welcome to PG-DAC Noida-2022");
+             System.out.println("Welcome to PG-DAC Noida-2022");
+             System.out.println("Welcome to PG-DAC Noida-2022");
+             System.out.println("Welcome to PG-DAC Noida-2022");
       
       }
 
